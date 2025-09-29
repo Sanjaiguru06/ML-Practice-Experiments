@@ -10,7 +10,7 @@ Experiment 4 - https://colab.research.google.com/drive/1JSN6Eg3fBusOuEFOiSc1HQ0m
 
 Polynomial Regression Curve - https://colab.research.google.com/drive/103bFytOq5tO-svF-7umuSR6L0P1pGJSa?usp=sharing
 
-ML Experiments on Heart Disease Dataset :
+ML Experiments with Heart Disease Dataset :
 
 This repository contains 4 Machine Learning experiments using a heart disease-related dataset (dataset.csv). The experiments explore both regression and classification techniques to predict numeric and categorical outcomes.
 
