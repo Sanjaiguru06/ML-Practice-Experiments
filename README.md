@@ -8,6 +8,8 @@ Experiment 3 - https://colab.research.google.com/drive/1XUflZQ0oLGf8NX7dhGmrt3ZR
 
 Experiment 4 - https://colab.research.google.com/drive/1JSN6Eg3fBusOuEFOiSc1HQ0mdrpo61BZ?usp=sharing
 
+Experiment 5 -9 link comes with the code itself.
+
 Polynomial Regression Curve - https://colab.research.google.com/drive/103bFytOq5tO-svF-7umuSR6L0P1pGJSa?usp=sharing
 
 ML Experiments with Heart Disease Dataset :
@@ -32,6 +34,21 @@ Applied Polynomial Regression on synthetic data to test degree 1, 3, 5, 6. Obser
 
 Experiment 4: Classification
 Implemented Bayesian Logistic Regression and Support Vector Machine (SVM) for classification tasks. Predicted sex (0/1) or chest pain type as the target. Standardized features for SVM. Evaluated using accuracy, classification report, and confusion matrix.
+
+Experiment 5 – Clustering Techniques
+Categorize patients based on medical features using unsupervised learning methods.
+
+Experiment 6 – Principal Component Analysis (PCA)
+Reduce dataset dimensions while retaining maximum variance and visualize patterns among patient data.
+
+Experiment 7 – Hidden Markov Model (HMM)
+This experiment models patient state transitions based on sequential health metrics (simulated sequences from your dataset).
+
+Experiment 8 – CART (Decision Tree Classification)
+Implemented CART (Classification and Regression Tree) for disease prediction.
+
+Experiment 9 – Ensemble Models
+This experiment compares Random Forest, AdaBoost, and Gradient Boosting models on your heart disease dataset.
 
 
 
